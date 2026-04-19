@@ -1,0 +1,62 @@
+2026-04-19 14:34:08,774 : INFO : root : Loading config.
+2026-04-19 14:34:08,969 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\User\AppData\Local\Temp\config_spec.mpf_cache
+2026-04-19 14:34:08,970 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-19 14:34:08,970 : INFO : ConfigProcessor : Loading config from file C:\Users\User\voypin\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-04-19 14:34:09,023 : INFO : ConfigProcessor : Loading config: C:\Users\User\voypin\Lib\site-packages\mpf\mpfconfig.yaml
+2026-04-19 14:34:09,024 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Documents\VoyPin\config\config.yaml.
+2026-04-19 14:34:09,025 : INFO : ConfigProcessor : Loading config: C:\Users\User\Documents\VoyPin\config\config.yaml
+2026-04-19 14:34:09,026 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\702496b5005dc9f111615edfeb1f688f.mpf_cache
+2026-04-19 14:34:09,285 : INFO : ConfigProcessor : Loading config from file C:\Users\User\voypin\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-04-19 14:34:09,292 : INFO : ConfigProcessor : Loading config: C:\Users\User\voypin\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-19 14:34:09,292 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Documents\VoyPin\modes\attract\config\attract.yaml.
+2026-04-19 14:34:09,293 : INFO : ConfigProcessor : Loading config: C:\Users\User\Documents\VoyPin\modes\attract\config\attract.yaml
+2026-04-19 14:34:09,293 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\ceb2963259bdd4f472a7466f985e82d4.mpf_cache
+2026-04-19 14:34:09,294 : INFO : ConfigProcessor : Loading config from file C:\Users\User\voypin\Lib\site-packages\mpf\modes\game\config\game.yaml.
+2026-04-19 14:34:09,302 : INFO : ConfigProcessor : Loading config: C:\Users\User\voypin\Lib\site-packages\mpf\modes\game\config\game.yaml
+2026-04-19 14:34:09,302 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\864bee267e1893245147d6fac4720928.mpf_cache
+2026-04-19 14:34:09,303 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\ceb2963259bdd4f472a7466f985e82d4.mpf_cache
+2026-04-19 14:34:09,316 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Documents\VoyPin\modes\base\config\base.yaml.
+2026-04-19 14:34:09,317 : INFO : ConfigProcessor : Loading config: C:\Users\User\Documents\VoyPin\modes\base\config\base.yaml
+2026-04-19 14:34:09,318 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\6ea45741ad2c4360a40b6aac1fa39894.mpf_cache
+2026-04-19 14:34:09,318 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev14
+2026-04-19 14:34:09,319 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-19-14-34-08-mpf-DESKTOP-5PE16BK.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\User\\Documents\\VoyPin\\logs\\2026-04-19-14-34-08-mpf-DESKTOP-5PE16BK.log'}
+2026-04-19 14:34:09,319 : INFO : Machine : MPF path: C:\Users\User\voypin\Lib\site-packages\mpf
+2026-04-19 14:34:09,319 : INFO : Machine : Machine path: C:\Users\User\Documents\VoyPin
+2026-04-19 14:34:09,319 : INFO : Machine : Platform: win32
+2026-04-19 14:34:09,319 : INFO : Machine : Python executable location: C:\Users\User\voypin\Scripts\python.exe
+2026-04-19 14:34:09,319 : INFO : Machine : Python version: 3.14.4 (64-bit)
+2026-04-19 14:34:09,321 : INFO : Machine : Initializing MPF...
+2026-04-19 14:34:09,539 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,559 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,559 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,559 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev14, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,560 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.4', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26200-SP0', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26200', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\User\\Documents\\VoyPin\\logs\\2026-04-19-14-34-08-mpf-DESKTOP-5PE16BK.log', 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,683 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-04-19 14:34:09,694 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-04-19 14:34:09,701 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-04-19 14:34:09,703 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-04-19 14:34:09,705 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-04-19 14:34:09,706 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-04-19 14:34:09,706 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-04-19 14:34:09,706 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-04-19 14:34:09,706 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-04-19 14:34:09,706 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-04-19 14:34:09,707 : INFO : Mode.attract : Started. Priority: 10
+2026-04-19 14:34:09,707 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-19 14:34:09,707 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-04-19 14:34:09,707 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-04-19 14:34:09,707 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-04-19 14:34:29,418 : INFO : Machine : Shutting down...
+2026-04-19 14:34:29,418 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-04-19 14:34:29,419 : INFO : root : MPF run loop ended.
