@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://gu1rd5vr74oc"]
+
+[node name="Node2D" type="Node2D" unique_id=621793593]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1627806715]
+offset_right = 1280.0
+offset_bottom = 1024.0
+color = Color(1, 0, 0, 1)
+
+[node name="Label" type="Label" parent="ColorRect" unique_id=1921861418]
+custom_minimum_size = Vector2(1280, 1024)
+layout_mode = 0
+offset_left = 1.0
+offset_top = 3.0
+offset_right = 1281.0
+offset_bottom = 1027.0
+theme_override_font_sizes/font_size = 80
+text = "WELCOME TO VOYPIN"
+horizontal_alignment = 1
+vertical_alignment = 1
